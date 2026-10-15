@@ -11,4 +11,4 @@
 
 [twitter]: https://twitter.com/Daniel
 [instagram]: https://www.instagram.com/Daniel
-[linkedin]: https://linkedin.com/in/Daniel
+[linkedin]: https://www.linkedin.com/in/daniel-wheeler-726110308/
