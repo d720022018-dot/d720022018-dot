@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel, an <a href="https://linkedin.com/in/DanielWheeler">IT Professional</a>☺</h1>
+<h1>Hi, I'm Daniel, an <a href="https://www.linkedin.com/in/daniel-wheeler-726110308/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
